@@ -1,0 +1,4 @@
+private.txt
+.idea/
+__pycache__/
+*.pyc
